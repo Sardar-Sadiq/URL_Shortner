@@ -1,4 +1,6 @@
-CHARSET = string.digits + string.ascii_lowercase + strin.ascii_uppercase
+import string 
+
+CHARSET = string.digits + string.ascii_lowercase + string.ascii_uppercase
 
 def encode_base62(num: int) -> str:
     if num == 0:
