@@ -81,13 +81,3 @@ The frontend sends a POST request to http://localhost:8000/shorten. We use CORS 
 
 
 ---
-
-### How to use this file
-1. Go to your main project folder.
-2. Right-click and create **New File**.
-3. Name it `README.md`.
-4. Paste the content above and save.
-
-Now, whenever you open this project on GitHub or in VS Code, you'll have a professional guide to help you remember the logic! 
-
-**Would you like me to show you how to add a "Delete" button next to shortened links so you can remove them from your database?**
